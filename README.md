@@ -27,34 +27,34 @@ N/A, In order to access the website visit:
 ### Issue #1: Change non-semantic HTML elements to semantic ones
 *Original Code provided*
 
-![Original Non-Semantic HTML elements](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/nonSemanticHTML.PNG?raw=true =250x250)
+![Original Non-Semantic HTML elements](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/nonSemanticHTML.PNG?raw=true)
 
 *Refactored code*
 
-![Refactored HTML to meet Semantic guidelines](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredCode.PNG?raw=true =250x250)
+![Refactored HTML to meet Semantic guidelines](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredCode.PNG?raw=true)
 
 ### Issue #2: Ensure that elements follow a logical structure
 *Original Code provided*
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/LogicalStructureB4.PNG?raw=true =250x250)
+![]()
 
 *Refactored code* 
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/logicalStructureAFTER.PNG?raw=true=250x250)
+![]()
 
 ### Issue #3: Website meets accessibility standards
 *Original Code provided*
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/altAttBefore.PNG?raw=true =250x250)
+![]()
 
 
 *Refactored code* 
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredAltAfter.PNG?raw=true =250x250)
+![]()
 
 ### Issue #4: Give the website a concise, descriptive title
 *Original Code provided*
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/titleb4.PNG?raw=true =250)
+![]()
 
 
 *Refactored code* 
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/WebsiteTitleAfter.PNG?raw=true =250x250)
+![]()
 
 ## Credits
 
