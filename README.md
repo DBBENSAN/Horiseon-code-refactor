@@ -26,7 +26,7 @@ N/A, In order to access the website visit:
 
 ### Issue #1: Change non-semantic HTML elements to semantic ones
 
-**Before:**
+**Before:**<br/>
 ![Original Non-Semantic HTML elements](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/nonSemanticHTML.PNG?raw=true)
 
 **After:**
