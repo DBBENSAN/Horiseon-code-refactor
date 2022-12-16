@@ -18,9 +18,9 @@ N/A
 ## Usage
 
 
-![Original Non-Semantic HTML elements](assets\images\refactorImages\nonSemanticHTML.PNG)
+![Original Non-Semantic HTML elements](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/nonSemanticHTML.PNG?raw=true)
 
-![Refactored HTML to meet Semantic guidelines](assets\images\refactorImages\Refactoredcode.PNG)
+![Refactored HTML to meet Semantic guidelines](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredCode.PNG?raw=true)
 
 ## Credits
 
