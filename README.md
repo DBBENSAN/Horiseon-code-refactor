@@ -24,10 +24,8 @@ https://dbbensan.github.io/Horiseon-code-refactor/
 
 ## Refactoring
 
-- Throughout the HTML document there were multiple HTML elements that were not semantic nor logically structured. These div class were replaced with a semantic HTML element to improve readability of the code. Additionally within Issue #2, we see a breakdown of how these HTML heads have been changed to follow a more logical structure: nav, div, and main communicate how the HTML operates to other developers.
-
 ### Issue #1: Change non-semantic HTML elements to semantic ones
- 
+- Throughout the HTML document there were multiple HTML elements that were not semantic nor logically structured. These div class were replaced with a semantic HTML element to improve readability of the code.  
 
 **Before:**<br/>
 ![Original Non-Semantic HTML elements](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/nonSemanticHTML.PNG?raw=true)
@@ -36,6 +34,7 @@ https://dbbensan.github.io/Horiseon-code-refactor/
 ![Refactored HTML to meet Semantic guidelines](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredCode.PNG?raw=true)
 
 ### Issue #2: Ensure that elements follow a logical structure
+- We see a breakdown of how these HTML heads have been changed to follow a more logical structure: nav, div, and main communicate what each HTML elements content to other developers. 
 
 **Before:**<br/>
 ![Original non-structured page](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/LogicalStructureB4.PNG?raw=true)
@@ -44,6 +43,7 @@ https://dbbensan.github.io/Horiseon-code-refactor/
 ![Refactored Code to meet logical structure](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/logicalStructureAFTER.PNG?raw=true)
 
 ### Issue #3: Website meets accessibility standards
+- The website did not have alt-text for the images being presented in the page. By adding these alt attributes throughout each image, I was able to improve the accesibility of the website. These alt attributes can interact with screen readers and have the description of the image be read outloud.
 
 **Before:**<br/>
 ![Images with no Accessibility Standards](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/altAttBefore.PNG?raw=true)
@@ -52,6 +52,7 @@ https://dbbensan.github.io/Horiseon-code-refactor/
 ![Refactored to have alt attribute for images](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredAltAfter.PNG?raw=true)
 
 ### Issue #4: Give the website a concise, descriptive title
+- Upon first loading the page, the Title for the page is simply "Website" this is non-descriptive and the company's name was used for the title instead.
 
 **Before:**<br/>
 ![Original Website Title](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/Titleb4.PNG?raw=true)
