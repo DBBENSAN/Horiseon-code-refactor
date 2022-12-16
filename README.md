@@ -13,7 +13,7 @@ Criteria:
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Refactoring](#Refactoring)
 - [Technologies Used](#TechnologiesUsed)
 - [License](#license)
 
@@ -22,10 +22,13 @@ Criteria:
 N/A, In order to access the website visit: 
 https://dbbensan.github.io/Horiseon-code-refactor/
 
-## Usage
+## Refactoring
+
+- Throughout the HTML document there were multiple HTML elements that were not semantic nor logically structured. These div class were replaced with a semantic HTML element to improve readability of the code. Additionally within Issue #2, we see a breakdown of how these HTML heads have been changed to follow a more logical structure: nav, div, and main communicate how the HTML operates to other developers.
 
 ### Issue #1: Change non-semantic HTML elements to semantic ones
  
+
 **Before:**<br/>
 ![Original Non-Semantic HTML elements](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/nonSemanticHTML.PNG?raw=true)
 
