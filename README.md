@@ -35,26 +35,26 @@ N/A, In order to access the website visit:
 
 ### Issue #2: Ensure that elements follow a logical structure
 *Original Code provided*
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/LogicalStructureB4.PNG? =250x250)
+![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/LogicalStructureB4.PNG?raw=true =250x250)
 
 *Refactored code* 
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/logicalStructureAFTER.PNG? =250x250)
+![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/logicalStructureAFTER.PNG?raw=true=250x250)
 
 ### Issue #3: Website meets accessibility standards
 *Original Code provided*
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/altAttBefore.PNG?? =250x250)
+![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/altAttBefore.PNG?raw=true =250x250)
 
 
 *Refactored code* 
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredAltAfter.PNG? =250x250)
+![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredAltAfter.PNG?raw=true =250x250)
 
 ### Issue #4: Give the website a concise, descriptive title
 *Original Code provided*
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/titleb4.PNG? =250)
+![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/titleb4.PNG?raw=true =250)
 
 
 *Refactored code* 
-![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/WebsiteTitleAfter.PNG?)
+![](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/WebsiteTitleAfter.PNG?raw=true =250x250)
 
 ## Credits
 
