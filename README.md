@@ -14,53 +14,56 @@ Criteria:
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Technologies Used](#TechnologiesUsed)
 - [License](#license)
 
 ## Installation
 
-N/A, In order to access the website visit:
-[a]
+N/A, In order to access the website visit: 
+https://dbbensan.github.io/Horiseon-code-refactor/
 
 ## Usage
 
 ### Issue #1: Change non-semantic HTML elements to semantic ones
-
+ 
 **Before:**<br/>
 ![Original Non-Semantic HTML elements](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/nonSemanticHTML.PNG?raw=true)
 
-**After:**
+**After:**<br/>
 ![Refactored HTML to meet Semantic guidelines](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredCode.PNG?raw=true)
 
 ### Issue #2: Ensure that elements follow a logical structure
 
-**Before:**
+**Before:**<br/>
 ![Original non-structured page](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/LogicalStructureB4.PNG?raw=true)
 
-**After:**
+**After:**<br/>
 ![Refactored Code to meet logical structure](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/logicalStructureAFTER.PNG?raw=true)
 
 ### Issue #3: Website meets accessibility standards
 
-**Before:**
+**Before:**<br/>
 ![Images with no Accessibility Standards](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/altAttBefore.PNG?raw=true)
 
-**After:**
+**After:**<br/>
 ![Refactored to have alt attribute for images](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredAltAfter.PNG?raw=true)
 
 ### Issue #4: Give the website a concise, descriptive title
 
-**Before:**
+**Before:**<br/>
 ![Original Website Title](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/Titleb4.PNG?raw=true)
 
 
-**After:**
+**After:**<br/>
 ![Website Title Changed](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/WebsiteTitleAfter.PNG?raw=true)
 
-## Credits
+## TechnologiesUsed
 
-Resources Used:
-
+Resources:
+https://www.w3schools.com/html/html5_semantic_elements.asp
+https://www.w3schools.com/html/html_elements.asp
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## License
 
