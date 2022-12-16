@@ -34,7 +34,7 @@ https://dbbensan.github.io/Horiseon-code-refactor/
 ![Refactored HTML to meet Semantic guidelines](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/refactoredCode.PNG?raw=true)
 
 ### Issue #2: Ensure that elements follow a logical structure
-- We see a breakdown of how these HTML heads have been changed to follow a more logical structure: nav, div, and main communicate what each HTML elements content to other developers. 
+- We see a breakdown of how these HTML heads have been changed to follow a more logical structure: nav, div, and main communicate what each HTML element's designated content to other developers. 
 
 **Before:**<br/>
 ![Original non-structured page](https://github.com/DBBENSAN/Horiseon-code-refactor/blob/main/assets/images/refactorImages/LogicalStructureB4.PNG?raw=true)
